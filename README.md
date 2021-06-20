@@ -1,5 +1,5 @@
 <h1 align="center">Comunidade 9ZT</h1>
-<h2 target="blank"><img align="center" src="https://media.discordapp.net/attachments/826224347932000316/855940096078381066/9ztfanartbycepardo.jpg" alt="https://dsc.gg/9zt" height="250" width="1920"></h2>
+<h2 target="blank"><img align="center" src="https://media.discordapp.net/attachments/826224347932000316/855940096078381066/9ztfanartbycepardo.jpg" alt="https://dsc.gg/9zt" height="240" width="1920"></h2>
 <h3>👋 Olá seja bem vindo(a) ao github da 9ZT!</h3>
 
 <h3 align="left">Entre na 9ZT:</h3>
